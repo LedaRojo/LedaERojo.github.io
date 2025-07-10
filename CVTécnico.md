@@ -7,7 +7,7 @@
 
 ---
 ## 🎯 Perfil Profesional
-**Especialista en Gestión Estratégica de TI, IA, IA aplicada y Ciencia de Datos**
+**Especialista en Gestión Estratégica y técnica de proyectos de TI, IA, IA aplicada y Ciencia de Datos**
 
 
 ## 🛠️ Tecnologías/Capacidades
@@ -15,7 +15,7 @@
 - **Lenguajes:** Python, R, SQL, lenguaje C++
 - **Frameworks y librerías:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, PennyLane
 - **Automatización y RPA:** UiPath, Python scripting
-- **Ingeniería de datos:** ingestión, carga y transformación de datos y almacenamientos en data y delta lakes, Bases sql y no-sql: documentales y vectoriales.
+- **Ingeniería de datos:** ingestión, carga y transformación de datos y almacenamientos en data y delta lakes, Bases sql y no-sql: documentales y vectoriales en entornos on premise o cloud.
 - **Análisis exploratorio de datos:** Limpieza, ETL, PCA, T_SNE  
 - **Visualización de datos:** Power BI, Matplotlib , Plotly
 - **Machine Learning:** Regresión, clasificación, PCA, clustering  
