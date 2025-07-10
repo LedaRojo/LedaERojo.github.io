@@ -3,31 +3,11 @@
 ## 👩‍💻 Leda Eugenia Rojo
 
 📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/leda-eugenia-rojo-ai](https://www.linkedin.com/in/leda-eugenia-rojo-ai-1b51992/)  
-🌐 GitHub: [github.com/LedaRojo/LedaRojo.github.io](https://github.com/LedaRojo/LedaRojo.github.io)
+
 
 ---
 ## 🎯 Perfil Profesional
 **Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
-
-
-## 💼 Experiencia Laboral actual
-**Gerente de Proyectos de IA** – GMINDS(2021 - Presente)  
-
-
-## 📚 Educación
-
-- **Posgrado en Gestión Estratégica de IA y Automatización Empresarial**  
-  *Universidad del CEMA (Centro de Estudios Macroeconómicos de Argentina)* — 2025
-
-- **Diplomatura en Ciencia de Datos**  
-  *UTN (Universidad Tecnológica Nacional)* — 2024
-
-- **Especialista en Inteligencia Artificial e Ingeniería del Conocimiento**  
-  *Universidad CAECE – Centro de Altos Estudios en Ciencias Exactas* — (Carrera de dos años académicos, 1999)
-
-- **Ingeniera en Computación**  
-  *UCSE – Universidad Católica de Santiago del Estero* — (1992)
 
 
 ## 🛠️ Tecnologías/Capacidades
@@ -48,7 +28,7 @@
 ---
 ## 📂 Proyectos
 
-Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y notebooks de IA, ciencia de datos y automatización.
+link a google colab
 
 ---
 
