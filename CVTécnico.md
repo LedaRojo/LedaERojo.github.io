@@ -7,7 +7,7 @@
 
 ---
 ## 🎯 Perfil Profesional
-**Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
+**Especialista en Gestión Estratégica de TI, IA, IA aplicada y Ciencia de Datos**
 
 
 ## 🛠️ Tecnologías/Capacidades
@@ -23,8 +23,7 @@
 - **IA aplicada:** Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras
 - **Computación cuántica:** Redes neuronales cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
 - **Gestión de proyectos de Tecnología:** Liderazgo técnico, planificación y comunicación con stakeholders  
-
-
+- **Consultor de Seguridad SAP, Administración de GRC (Gobernanza, Riesgo y Cumplimiento)**
 
 
 ---
