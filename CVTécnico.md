@@ -22,18 +22,9 @@
 - **Deep Learning:** Redes neuronales convolucionales  
 - **IA aplicada:** Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras
 - **Computación cuántica:** Redes neuronales cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
-- **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders  
+- **Gestión de proyectos de Tecnología:** Liderazgo técnico, planificación y comunicación con stakeholders  
 
 
 
 
 ---
-
-
-
-  
----
-
-
-
-🧠 *“La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.”*
