@@ -25,10 +25,7 @@
 - **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders  
 
 
----
-## 📂 Proyectos
 
-link a google colab
 
 ---
 
