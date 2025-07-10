@@ -32,8 +32,7 @@ link a google colab
 
 ---
 
-## 🧠 Intereses paralelos.
-- Artista plástica: cuadros abstractos sobre lienzo y artesanales sobre madera. Creaciones propias.
+
 
   
 ---
