@@ -18,7 +18,7 @@
 - **Ingeniería de datos:** ingestión, carga y transformación de datos y almacenamientos en data y delta lakes, Bases sql y no-sql: documentales y vectoriales en entornos on premise o cloud.
 - **Análisis exploratorio de datos:** Limpieza, ETL, PCA, T_SNE  
 - **Visualización de datos:** Power BI, Matplotlib , Plotly
-- **Machine Learning:** Regresión, clasificación, PCA, clustering  
+- **Machine Learning:** Regresión, clasificación, PCA, clustering, reglas de asociación, árboles de decisión y otros
 - **Deep Learning:** Redes neuronales convolucionales  
 - **IA aplicada:** Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras
 - **Computación cuántica:** Redes neuronales cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
